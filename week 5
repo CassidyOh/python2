@@ -1,0 +1,56 @@
+#Author: Nyah 
+#Date:Dec.6.24
+#Diposcripstion:modules
+
+
+#Review from week 4
+#def muliply(num1, num2):
+ # product = multiply(179,70)
+#print(product)
+
+#print(muliply (179,70))
+
+import math
+
+radius = 5
+area = math.pi * math.pow(radius, 2)
+print("Area of circile:" , area)
+
+import random
+from math import sqrt, pow
+import  time as t
+random_number = random.randint(1,10)
+squre_root = sqrt(25)
+time_now = t.time()
+print(random_number)
+print(squre_root)
+print(time_now)
+
+#assiment:roll a 6 sided dice
+
+random_number = random.randint(1,6)
+print(random_number)
+
+
+radis = float(input("Enter a radius: "))
+volume = (4/3 ) 
+print("Volume of sphere is: ", volume)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                

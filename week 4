@@ -1,0 +1,34 @@
+#Author: Nyah 
+#Date:Nov.29.24
+#Diposcripstion: fuctions
+
+def function_name(pram1, pram2):
+    #fuction body
+    function_name()
+
+def greeting(): 
+    print("Hello World")
+greeting()   
+
+def addtion(num1, num2):
+    return num1+num2
+def subtract(num1, num2):
+    return num1-num2
+add = addtion(1,1)
+sub = subtract(2,1)
+print(add)
+print(sub)
+
+#Function: a set of instructions
+#2 Types: void return
+#Void:returns nothing
+#Return:returns somthing
+#def brush_teeth()
+#def brush_teeth(int water,int toothpaste)
+#def workout(time,part,weight)
+#def addtion(num),numz)
+#return(num/+numz)
+#deg greeting():
+#print("Hello")
+
+#def muliply (num33,num34):

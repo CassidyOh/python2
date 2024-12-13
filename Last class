@@ -1,0 +1,27 @@
+#Author: Nyah 
+#Date:Dec.13.24
+#Diposcripstion: dictionaries
+
+#dictionaries - stores info in pair like words and it's definition
+#pairs known as key:value pairs
+#key is a unique identifier - value is accociated data
+
+student_info = {'name':'Nyah','age':9, 'grade': '4'}
+#Accessing value
+print('student name:',student_info['name'])
+
+#Add a new key-value pair
+student_info ['subject']= 'math'
+
+#Update a value
+student_info['Age'] = 20
+
+#Using dictionary methods
+keys = student_info.keys()
+value = student_info.values()
+
+#Print updated info
+print('updated info:', student_info)
+
+book_info = {'name':'Diary Of A Pug','main character':Bub, 'Auther': 'Kyla May' 'pub_year': 2019}
+print('book name:',book_info['name'])
